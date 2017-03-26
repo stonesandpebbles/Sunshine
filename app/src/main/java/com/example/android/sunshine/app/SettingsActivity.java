@@ -135,6 +135,7 @@ public class SettingsActivity extends AppCompatPreferenceActivity {
 
 
         setupActionBar();
+        getSupportActionBar().setDisplayShowTitleEnabled(false);
     }
 
     /**

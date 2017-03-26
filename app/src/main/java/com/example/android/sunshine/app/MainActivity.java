@@ -21,12 +21,11 @@ public class MainActivity extends AppCompatActivity implements ForecastFragment.
 
     private static final String LOG_TAG = MainActivity.class.getSimpleName();
 
-    private String mLocation = null;
 
     private final String FORECASTFRAGMENT_TAG = "FFTAG";
     private static final String DETAILFRAGMENT_TAG = "DFTAG";
     private final static int PLAY_SERVICES_RESOLUTION_REQUEST = 9000;
-
+    private String mLocation;
     private boolean mTwoPane;
     /**
      * ATTENTION: This was auto-generated to implement the App Indexing API.
@@ -40,9 +39,10 @@ public class MainActivity extends AppCompatActivity implements ForecastFragment.
         mLocation = Utility.getPreferredLocation(this);
         setContentView(R.layout.activity_main);
         Toolbar myToolbar = (Toolbar) findViewById(R.id.toolbar);
-        myToolbar.setLogo(R.drawable.ic_logo);
-        myToolbar.setTitle("");
+       // myToolbar.setLogo(R.drawable.ic_logo);
+       // myToolbar.setTitle("");
         setSupportActionBar(myToolbar);
+        getSupportActionBar().setDisplayShowTitleEnabled(false);
         if (findViewById(R.id.weather_detail_container) != null) {
             // The detail container view will be present only in the large-screen layouts
             // (res/layout-sw600dp). If this view is present, then the activity should be
