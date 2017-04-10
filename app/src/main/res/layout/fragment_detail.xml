@@ -1,112 +1,35 @@
-<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:layout_height="match_parent" android:layout_width="match_parent">
+<!--
+     Copyright (C) 2015 The Android Open Source Project
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+<!-- Master layout. -->
 <LinearLayout
-    android:layout_width="match_parent"
-    android:layout_height="wrap_content"
-    android:gravity="center_vertical"
-    android:layout_gravity="start"
-    android:orientation="vertical"
-    android:padding="16dp">
-    <TextView
-        android:layout_width="wrap_content" android:layout_height="wrap_content"
-        android:id="@+id/list_item_detail_day_textview"
-        android:textSize="24sp"
-        android:fontFamily="sans-serif-condensed"
-        android:textColor="@color/black">
-
-    </TextView>
-    <TextView
-        android:layout_width="wrap_content" android:layout_height="wrap_content"
-        android:id="@+id/list_item_detail_date_textview"
-        android:textColor="@color/grey_700"
-        android:fontFamily="sans-serif-condensed"
-        android:textSize="16sp" >
-
-    </TextView>
-
-
-<LinearLayout
-    android:orientation="horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:gravity="center_horizontal"
-    android:layout_marginTop="16dp">
-    <LinearLayout
-        android:orientation="vertical"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:gravity="start">
-    <TextView
-        android:layout_width="wrap_content" android:layout_height="wrap_content"
-        android:id="@+id/list_item_detail_high_textview"
-        android:textSize="96sp">
-
-    </TextView>
-
-    <TextView
-        android:layout_width="wrap_content" android:layout_height="wrap_content"
-        android:id="@+id/list_item_detail_low_textview"
-        android:layout_gravity="center_horizontal"
-        android:textColor="@color/grey_700"
-        android:textSize="48sp" >
-
-    </TextView>
-
-    </LinearLayout>
-
-    <LinearLayout
-        android:orientation="vertical"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:gravity="center_horizontal"
-        android:layout_gravity="center">
-        <ImageView
-            android:layout_width="wrap_content" android:layout_height="wrap_content"
-            android:id="@+id/list_item_detail_icon"
-            android:adjustViewBounds="true">
-        </ImageView>
-        <TextView
-            android:layout_width="wrap_content" android:layout_height="wrap_content"
-            android:id="@+id/list_item_detail_forecast_textview"
-            android:textAppearance="?android:textAppearanceLarge"
-            android:textColor="@color/grey_700" >
-
-        </TextView>
-    </LinearLayout>
-
-    </LinearLayout>
-    <LinearLayout
-    android:layout_height="match_parent"
-    android:layout_marginRight="0dp"
-    android:layout_marginEnd="0dp"
-    android:layout_marginTop="16dp"
-    android:layout_width="match_parent"
     android:orientation="vertical">
-    <TextView
-        android:layout_width="match_parent" android:layout_height="wrap_content"
-        android:id="@+id/list_item_detail_humidity_textview"
-        android:textAppearance="?android:textAppearanceLarge">
 
-    </TextView>
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@android:color/white" />
 
-        <TextView
-            android:layout_width="match_parent" android:layout_height="wrap_content"
-            android:id="@+id/list_item_detail_pressure_textview"
-            android:textAppearance="?android:textAppearanceLarge"
-            android:layout_marginTop="4dp">
+    <include layout="@layout/detail_today_grid"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3"/>
 
-        </TextView>
-
-    <TextView
-        android:layout_width="match_parent" android:layout_height="wrap_content"
-        android:id="@+id/list_item_detail_wind_textview"
-        android:layout_marginTop="4dp"
-        android:textAppearance="?android:textAppearanceLarge">
-
-    </TextView>
-
-
+    <include layout="@layout/detail_extras_grid"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"/>
 </LinearLayout>
-</LinearLayout>
-</ScrollView>

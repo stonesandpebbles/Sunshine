@@ -3,129 +3,174 @@
 
     <item
         is-multidex="true"
-        jar="D:\github\Sunshine\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jar="C:\Users\Abhijeet\.android\build-cache\25037483f4822cbd01aeb4c3cf3d256b56b91748\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="21.1.2"
-        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
-        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.8.0_61cbf29563417bf1f58b7a1be26afe17e20c6773\classes.dex" />
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_12eff7fd5886b900e1d0e8eacc4209eafa506290\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\github\Sunshine\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jar="C:\Users\Abhijeet\.android\build-cache\446182b2d34ecf64b0734a8b4ac45f15ba4118b0\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="21.1.2"
-        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
-        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.8.0_0824ded1e3bc8ecee88ae24d5ae9cb4dba8b036b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\github\Sunshine\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
-        sha1="102e310205611f5042d560396011d3747b0be3d5">
-        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3bc17a5d13591b2cb43c39703e21332d2622a3da\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\github\Sunshine\app\build\intermediates\exploded-aar\com.android.support\design\25.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
-        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
-        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.2.0_e4828a91ff124e66f0920bc564fe2940872968f7\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\github\Sunshine\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.2.0_d94c96839d2a5359b231b464615c3dfa6f1d75f1\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\github\Sunshine\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
+        revision="25.0.0"
         sha1="190a642ba16d1421296a4d794606279b80039c59">
-        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.8.0_71027584cce14c36270e1e90f0c5f8150df18dde\classes.dex" />
+        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5f73e6f68d4eea6d9e8b4a6a901a30d6d634b0db\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\github\Sunshine\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\jars\classes.jar"
+        jar="C:\Users\Abhijeet\.android\build-cache\22c48130797445bd96d13e369d4be3b3ef7c2db9\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="21.1.2"
-        sha1="9ff04cc3470178a44512624036751a803418c2ca">
-        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.8.0_7efbef5dc5c1838aba2d362745c10447f8f5496c\classes.dex" />
+        revision="25.0.0"
+        sha1="a93aa431de60b775c91158433f3c687f1d32cb9c">
+        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3cf4017d793dd768d269501e1895078914712cae\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\github\Sunshine\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jar="C:\Users\Abhijeet\.android\build-cache\d921c430f4510e0ee294ea28be16f0e42c0b5b2d\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="21.1.2"
-        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
-        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.2.0_a6205705807f973c4596aa8a03e141c9e40ee863\classes.dex" />
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_96143dacc3af210f75979307ac0ce16a999f9588\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\github\Sunshine\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jar="C:\Users\Abhijeet\.android\build-cache\68470e5bf8c1110a4fee616583efe1615d185834\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="21.1.2"
-        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
-        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.2.0_1d79f2bda55f721bda9edc79cc3c324caa20d57f\classes.dex" />
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_aa4069afda043e1373fce27f30649555b5ca3708\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\github\Sunshine\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jar="C:\Users\Abhijeet\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
         jumboMode="true"
         optimize="true"
-        revision="21.1.2"
-        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
-        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.2.0_abe6251a80dd7673998f8ce1b2283463ec190c13\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\github\Sunshine\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
-        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
-        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.8.0_e5e1cedd160da255fc4a21ecfa76c1fbe327e7fc\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\github\Sunshine\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
-        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
-        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.2.0_7b6af474410695af3d59db6cca0412a8afd1ecee\classes.dex" />
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_79d508cbf4f7d64f3cc01fa8b4fee13dd6789471\classes.dex" />
     </item>
     <item
         is-multidex="true"
         jar="D:\github\Sunshine\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
-        revision="21.1.2"
-        sha1="9026b1d13534e52de57e9384f01d572114e79836">
-        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c6d804085154d7033d000eeb760eb0df40f3ba5c\classes.dex" />
+        revision="25.0.0"
+        sha1="1c5700cb1d758463a3fcb139d50db2a808fbc47e">
+        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c6d804085154d7033d000eeb760eb0df40f3ba5c\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\github\Sunshine\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jar="C:\Users\Abhijeet\.android\build-cache\7ec1cbf90dc209de31483ea67b697c9c218b73fb\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="21.1.2"
-        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
-        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.2.0_4a320ab1f088b7984e95d88f4589b56fb9842f7a\classes.dex" />
+        revision="25.0.2"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_51ec333f974d403ca1d3c09666ea863b5bf4d093\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abhijeet\.android\build-cache\5da2e6a43396145d36dbde4bac09c58cecb30184\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9110bf70666452b57001d4824f49565536c73570\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abhijeet\.android\build-cache\1361da42eb01051e80e79a741a053bc0884faf7e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_46a4ebdb38cf32bcf505e337f1d11c9e1a60c8c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abhijeet\.android\build-cache\5da2e6a43396145d36dbde4bac09c58cecb30184\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9110bf70666452b57001d4824f49565536c73570\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android-Studio\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_c493562d2fe68a28fec1ccdef93bc13acfb5b81a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abhijeet\.android\build-cache\c7d5ea5a49ac44cfd0335d7dc444ee38135f91d7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1c93730ec69fa5d36f0f5160d61870807232ca46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abhijeet\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_79d508cbf4f7d64f3cc01fa8b4fee13dd6789471\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\github\Sunshine\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3bc17a5d13591b2cb43c39703e21332d2622a3da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abhijeet\.android\build-cache\446182b2d34ecf64b0734a8b4ac45f15ba4118b0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5f73e6f68d4eea6d9e8b4a6a901a30d6d634b0db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\github\Sunshine\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3bc17a5d13591b2cb43c39703e21332d2622a3da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abhijeet\.android\build-cache\945916473656e07e34a33a2b722a7f4c7695fe8c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_09b2a880f16fff6c765ae1d38dab1429b750d305\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abhijeet\.android\build-cache\37f1fa4f14e1526c435155434c3dfe87e6e7ffb5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7867b1bb963a66146981c7390998a3fdc6bc3e86\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -138,93 +183,183 @@
     </item>
     <item
         is-multidex="true"
-        jar="D:\github\Sunshine\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jar="C:\Users\Abhijeet\.android\build-cache\465835176d0de8ff0ae4efdb165b88de63a367c7\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="21.1.2"
-        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
-        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.2.0_af235162a92e7373e0bfcf88382ba409ffda33f3\classes.dex" />
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3c38b32cbabd7d9e6509a8909850ffc4b7c3507f\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\github\Sunshine\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jar="C:\Users\Abhijeet\.android\build-cache\1361da42eb01051e80e79a741a053bc0884faf7e\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="21.1.2"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_46a4ebdb38cf32bcf505e337f1d11c9e1a60c8c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abhijeet\.android\build-cache\488ccc5a5d88ee083827c14ad12bb3b1a7f77d61\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7bd626bd26a94fd063126dd320c6afdb20065d21\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abhijeet\.android\build-cache\c7c5e5e3b156264b9dc35170a5973d7fe199a21c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
         sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
-        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.8.0_7edf507a8de3f44737b32a3bb472a1633af5686e\classes.dex" />
+        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6b9b48238b963e67b7a1d56890c785a8ed6ab18a\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\github\Sunshine\app\build\intermediates\exploded-aar\com.android.support\transition\25.2.0\jars\classes.jar"
+        jar="C:\Users\Abhijeet\.android\build-cache\f6123a4c2fb65f7842960df38e96ae641be81416\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="21.1.2"
-        sha1="e51c2f662bb72419632af5192553c37e33890a99">
-        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.2.0_3aa4d0f0e35c44677f6892cc120773e113083f1b\classes.dex" />
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_170331a275a7629c4e398384f5efff0e4b37ed8e\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\github\Sunshine\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jar="C:\Users\Abhijeet\.android\build-cache\c7d5ea5a49ac44cfd0335d7dc444ee38135f91d7\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="21.1.2"
-        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
-        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.2.0_c5a1850545ea4d45267e87ba5c153698b99b1fa3\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\github\Sunshine\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
-        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
-        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.8.0_1c41ac0a1e0a2b367cc6d5f5bb6a46b00eeeabd7\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\github\Sunshine\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
+        revision="25.0.0"
         sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
-        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.8.0_99d05e8e730c19a5c31db92e39718718ee441cc2\classes.dex" />
+        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1c93730ec69fa5d36f0f5160d61870807232ca46\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\github\Sunshine\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jar="C:\Users\Abhijeet\.android\build-cache\34ae427757f5948a46488581425541b4b64c0deb\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="21.1.2"
-        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
-        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.2.0_23bb1b159c63a75be0f6da4f74c70dc82df4a90e\classes.dex" />
+        revision="25.0.2"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7a4b6b338b9e1e30559fbcbf43039e72b8bb1cee\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\github\Sunshine\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.6.0\jars\classes.jar"
+        jar="C:\Users\Abhijeet\.android\build-cache\c7c5e5e3b156264b9dc35170a5973d7fe199a21c\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="21.1.2"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6b9b48238b963e67b7a1d56890c785a8ed6ab18a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abhijeet\.android\build-cache\34ae427757f5948a46488581425541b4b64c0deb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7a4b6b338b9e1e30559fbcbf43039e72b8bb1cee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abhijeet\.android\build-cache\885a0f13d5e04ad10d054a1c038cd341f94b74fe\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1f0f11481a61b353870ef57cf882b152a4484bbd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abhijeet\.android\build-cache\1a45c8a62bf6f1755b3d3dfd7076c7de0b83aca8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1ce58874303ce1ad88e866e82102fdcbb9aec80f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abhijeet\.android\build-cache\1703b4d8e069fa097b8f4c97ca951214f9a2efe1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3a1bac2cc31df44dbf1f9bbf2c675319503c9271">
+        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_18abd965f95fcdabc259360e10587fbca74eae1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abhijeet\.android\build-cache\59662dbb252006c2f40d75e34ddaf5dba5478e75\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ab9a2c73cdb09ae2b34fd3611e8fdd2039ed2605\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abhijeet\.android\build-cache\bd594d8335927dc7ad955ef6ef9134e88ce90bcf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c50a14f5fd8a2574bc2626ad7275fef846b3597c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\github\Sunshine\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1a6ccc3c2cdfefda75aba48e97c7200f1c4f5b54">
+        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c6d804085154d7033d000eeb760eb0df40f3ba5c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abhijeet\.android\build-cache\7bb11ae91e1d396d901e0d9d211abf6dc96ee0fc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6e981e77ca0c548bb09730bd04dd7b32fa7090d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abhijeet\.android\build-cache\22c48130797445bd96d13e369d4be3b3ef7c2db9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
         sha1="a93aa431de60b775c91158433f3c687f1d32cb9c">
-        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.6.0_248cbf025552aca63c1a7cf66c232fe86840a5b0\classes.dex" />
+        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3cf4017d793dd768d269501e1895078914712cae\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\Android-Studio\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jar="C:\Users\Abhijeet\.android\build-cache\488ccc5a5d88ee083827c14ad12bb3b1a7f77d61\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="21.1.2"
-        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
-        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_0be768cd6fa3c9c29ffa3ceb6bea3ce1162250dc\classes.dex" />
+        revision="25.0.2"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7bd626bd26a94fd063126dd320c6afdb20065d21\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\github\Sunshine\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.2.0\jars\classes.jar"
+        jar="C:\Users\Abhijeet\.android\build-cache\7ec1cbf90dc209de31483ea67b697c9c218b73fb\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="21.1.2"
-        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
-        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.2.0_0f6333bc515822bd4a22308e346fd3bd89b3719f\classes.dex" />
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_51ec333f974d403ca1d3c09666ea863b5bf4d093\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abhijeet\.android\build-cache\95875737879d26b11ce55ace59cf2c6157f3a402\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\github\Sunshine\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2f0245f7beb1eaea172d60b28e45c8b49698f9a2\classes.dex" />
     </item>
 
 </items>
