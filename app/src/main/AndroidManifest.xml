@@ -18,6 +18,9 @@
     <uses-permission
         android:name="android.permission.ACCESS_NETWORK_STATE"/>
 
+    <!-- Permissions required to use the Place Picker -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -42,6 +45,10 @@
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
 
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyBme9XIzkNa9ajfClwyZO5TM55-uX7rKvY"/>
+
         <activity
             android:name=".DetailActivity"
             android:label="@string/title_activity_detail"
@@ -65,7 +72,16 @@
             android:exported="false"
             android:syncable="true" />
 
-
+        <!-- Muzei Extension -->
+        <service android:name=".muzei.WeatherMuzeiSource"
+            android:icon="@drawable/ic_muzei"
+            android:label="@string/app_name"
+            android:description="@string/muzei_description" >
+            <intent-filter>
+                <action android:name="com.google.android.apps.muzei.api.MuzeiArtSource" />
+            </intent-filter>
+            <meta-data android:name="color" android:value="@color/primary" />
+        </service>
         <!-- Today Widget -->
         <receiver
             android:name=".widget.TodayWidgetProvider"

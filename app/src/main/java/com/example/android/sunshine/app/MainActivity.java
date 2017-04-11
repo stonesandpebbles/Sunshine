@@ -57,10 +57,11 @@ public class MainActivity extends AppCompatActivity implements ForecastFragment.
                     Bundle args = new Bundle();
                     args.putParcelable(DetailActivityFragment.DETAIL_URI, contentUri);
                     fragment.setArguments(args);
-                    getSupportFragmentManager().beginTransaction()
-                            .replace(R.id.weather_detail_container, fragment, DETAILFRAGMENT_TAG)
-                            .commit();
                 }
+                getSupportFragmentManager().beginTransaction()
+                        .replace(R.id.weather_detail_container, fragment, DETAILFRAGMENT_TAG)
+                        .commit();
+
             }
             } else {
                 mTwoPane = false;
